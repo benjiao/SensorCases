@@ -1,13 +1,16 @@
 # A collection of cases for my home assistant sensors
 
 ## Cases
-- [NodeMCU v3 with DHT22]()
-- [NodeMCU v3 with SHT30-D sensor](#nodemcu-v3-with-sht30-d-sensor)
+
+- (TODO) [ESP-01 with SHT30-D](#esp-01-v3-with-sht30-d)
+- (TODO) [NodeMCU v3 with DHT22](#nodemcu-v3-with-dht-22)
+- [NodeMCU v3 with SHT30-D](#nodemcu-v3-with-sht30-d)
 
 
-### NodeMCU v3 with DHT-22 sensor
+### ESP-01 v3 with SHT30-D
+### NodeMCU v3 with DHT-22
 
-### NodeMCU v3 with SHT30-D sensor
+### NodeMCU v3 with SHT30-D
 ![NodeMCU v3 with SHT30-D sensor](nodemcuv3_with_sht30.png)
 
 ## Dependencies
